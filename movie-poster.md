@@ -90,19 +90,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:** Make a movie poster for The Running Man where The Running Man is looking out of a sewer, behind him is a burning building, while people with guns roam the streets, with a helicopter overlooking the area. Make the mood ominous and the colors dark with a bright orange fire. Don't include the two rings, and add an abandoned muscle car. Make the man hiding look slightly nervous. Add a searchlight from the helicopter. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It gave me the perfect vibe 
+- **What didn't work:**  the people look unreal
+- **What I'll change for next attempt:**  maybe add more colors
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for The Running Man where The Running Man is looking out of a sewer, behind him is a burning building, while people with guns roam the streets, with a helicopter overlooking the area. Make the mood ominous and the colors dark with a bright orange fire. Don't include the two rings, and add an abandoned muscle car. Make the man hiding look slightly nervous. Remove the helicopter's searchlight and enlarge the building and make it look like it's about to explode
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  The changes to the building behind the man and glowing behind him gives a nice contrast.
+- **What didn't work:** there is a random building that got changed 
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?) 
+	The most recent attempt.  
 
 ---
 
