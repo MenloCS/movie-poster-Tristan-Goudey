@@ -69,18 +69,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for The Running Man where The Running Man is looking out of a sewer, behind him is a burning building, while people with guns roam the streets, with a helicopter overlooking the area. Make the mood ominous and the colors dark with a bright orange fire
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  There is a building on fire with everything I asked for
+- **What didn't work:**  There are weird circles which I don't like
+- **What I'll change for next attempt:** Get rid of the circles and make there be more destruction 
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for The Running Man where The Running Man is looking out of a sewer, behind him is a burning building, while people with guns roam the streets, with a helicopter overlooking the area. Make the mood ominous and the colors dark with a bright orange fire. Don't include the two rings, and add an abandoned muscle car. Make the man hiding look slightly nervous.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  I feel like the ominous vibe was executed very well
+- **What didn't work:**  I want it to seem like the man is being searched for
+- **What I'll change for next attempt:**  Make it seem like the man is being searched for
 
 ---
 
