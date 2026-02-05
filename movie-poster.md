@@ -29,27 +29,27 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:**   
+- **Movie Title: The Running Man
+- **Why I chose this movie: I love action-packed movies 
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion: Tension 
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element: Hiding and looking   
+- **Why this element: He has to hide from the trackers who want to kill him 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** Black 
+- **Accent color(s):**  Red
+- **Overall mood:** dark 
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
@@ -58,7 +58,8 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description:** 
+	The running man is looking out of a sewer, behind is a burning building with people with guns 
 
 ---
 
